@@ -13,7 +13,7 @@ Welcome to the Nike React App repository! This project is a web application buil
 
 ## Demo
 
-You can find a live demo of this project [here](#https://nike-page-using-react.vercel.app/).
+You can find a live demo of this project [here](#).https://nike-page-using-react.vercel.app/
 
 ## Features
 
