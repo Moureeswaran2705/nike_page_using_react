@@ -13,7 +13,7 @@ Welcome to the Nike React App repository! This project is a web application buil
 
 ## Demo
 
-You can find a live demo of this project [here](#).
+You can find a live demo of this project [here](#https://nike-page-using-react.vercel.app/).
 
 ## Features
 
@@ -27,7 +27,3 @@ You can find a live demo of this project [here](#).
 
 To run this project locally, follow these steps:
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/nike-react-app.git
